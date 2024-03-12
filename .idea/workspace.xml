@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="775bff26-483f-4ab3-912b-f719a8957b30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/BooleanException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/ByteLossyConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/DoubleLossyConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/FloatLossyConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/GlobalDeclarationInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/LongLossyConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/PrintPrintln.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/ShortLossyConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day1/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day1/MaharajahPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day1/SpecialOperatorAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day1/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day10/AreaPerimeterOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day10/AreaPerimeterOfRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day10/CelsiusToFahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day10/MilesPerHour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/AdditionNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/AverageAcceleration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/CharacterVowelConsonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/FeetIntoMeters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/FinancialApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/MinutesIntoYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/PoundsIntoKilogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/SumTheDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/nextCharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/AlphabetChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/ArrayShortMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/ConditionalAlphabet_Upper_Lower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/ConditionalEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/ConditionalMinThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/ConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/SmallestValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day13/IncrementOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day13/IncrementOperator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day13/IncrementOperator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day13/PrintPrintStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day14/CompoundAssignmentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day14/ConditionalEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day14/LogicalOperatorExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day14/LogicalOperatorExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day14/LogicalOperatorExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day14/LogicalOperatorExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day15/AreaOfHexagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day15/CalculateInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day15/CalculatingEnergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day15/ComputingBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day15/CostOfTrip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day15/RunwayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day2/ByteDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day2/ByteExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day2/ByteExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day2/InstituteByteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day2/PersonalByteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day3/ShortCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day3/ShortDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day3/ShortExpenseEarning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day3/ShortM7Batch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day3/ShortTransportation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day4/IntDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day4/IntExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day4/IntExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day4/IntExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day5/LongDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day5/LongExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day5/LongExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day6/FloatDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day6/FloatExamCriteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day6/FloatExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day6/FloatMyInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day7/CharDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day7/CombinedVidaV1Pro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day7/DoubleDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day7/StringDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day7/StringExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day8/GlobalDefaultValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day8/GlobalVariableExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day8/LocalVariableExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day8/LocalVariableExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day8/ResultantOperandDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day9/AreaOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day9/PopulationProjection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dOuV1sCjXgAOj5LeaF0HtMMYce" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AreaOfHexagon.executor": "Run",
+    "Application.BooleanException.executor": "Run",
+    "Application.ByteDataType.executor": "Run",
+    "Application.ByteExample.executor": "Run",
+    "Application.ByteExample2.executor": "Run",
+    "Application.ByteLossyConversion.executor": "Run",
+    "Application.CalculateInterest.executor": "Run",
+    "Application.CalculatingEnergy.executor": "Run",
+    "Application.CharDataType.executor": "Run",
+    "Application.CombinedVidaV1Pro.executor": "Run",
+    "Application.CompoundAssignmentOperator.executor": "Run",
+    "Application.ComputingBMI.executor": "Run",
+    "Application.ConditionalAlphabet_Upper_Lower.executor": "Run",
+    "Application.ConditionalEvenOdd.executor": "Run",
+    "Application.ConditionalMinThree.executor": "Run",
+    "Application.DoubleDataType.executor": "Run",
+    "Application.DoubleLossyConversion.executor": "Run",
+    "Application.FloatDataType.executor": "Run",
+    "Application.FloatExamCriteria.executor": "Run",
+    "Application.FloatExample.executor": "Run",
+    "Application.FloatMyInfo.executor": "Run",
+    "Application.GlobalDefaultValue.executor": "Run",
+    "Application.GlobalVariableExample1.executor": "Run",
+    "Application.InstituteByteData.executor": "Run",
+    "Application.IntDataType.executor": "Run",
+    "Application.IntExample1.executor": "Run",
+    "Application.IntExample2.executor": "Run",
+    "Application.LocalVariableExample1.executor": "Run",
+    "Application.LocalVariableExample2.executor": "Run",
+    "Application.LogicalOperatorExample1.executor": "Run",
+    "Application.LogicalOperatorExample2.executor": "Run",
+    "Application.LongDataType (1).executor": "Run",
+    "Application.LongDataType.executor": "Run",
+    "Application.LongExample.executor": "Run",
+    "Application.LongExample2.executor": "Run",
+    "Application.LongRange.executor": "Run",
+    "Application.MaharajPattern.executor": "Run",
+    "Application.PersonalByteData.executor": "Run",
+    "Application.PrintPrintStream.executor": "Run",
+    "Application.PrintPrintln.executor": "Run",
+    "Application.ResultantOperandDataType.executor": "Run",
+    "Application.RunwayLength.executor": "Run",
+    "Application.ShortCompany.executor": "Run",
+    "Application.ShortDataType.executor": "Run",
+    "Application.ShortExample1.executor": "Run",
+    "Application.ShortExpenseEarning.executor": "Run",
+    "Application.ShortLossyConversion.executor": "Run",
+    "Application.ShortTransportation.executor": "Run",
+    "Application.SpecialOperatorAddition.executor": "Run",
+    "Application.StringDataType.executor": "Run",
+    "Application.StringExample.executor": "Run",
+    "Application.SumTheDigits.executor": "Run",
+    "Application.nextCharAt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ashutosh Mishra/Desktop/Java Learning/src/com/javacode/exceptions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.excludes",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ashutosh Mishra\Desktop\Java Learning\src\com\javacode\qspider_assignment\day11" />
+      <recent name="C:\Users\Ashutosh Mishra\Desktop\Java Learning\src\com\javacode\qspider_assignment\day10" />
+      <recent name="C:\Users\Ashutosh Mishra\Desktop\Java Learning\src\com\javacode\qspider_assignment\day9" />
+      <recent name="C:\Users\Ashutosh Mishra\Desktop\Java Learning\src\com\javacode\qspider_assignment\day6" />
+      <recent name="C:\Users\Ashutosh Mishra\Desktop\Java Learning\src\com\javacode\qspider_assignment\day7" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="775bff26-483f-4ab3-912b-f719a8957b30" name="Changes" comment="" />
+      <created>1709891468526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709891468526</updated>
+      <workItem from="1709891469619" duration="952000" />
+      <workItem from="1709892439419" duration="988000" />
+      <workItem from="1709893499966" duration="7489000" />
+      <workItem from="1709916784857" duration="4344000" />
+      <workItem from="1709960158937" duration="7744000" />
+      <workItem from="1709971317982" duration="7213000" />
+      <workItem from="1709983457016" duration="2673000" />
+      <workItem from="1710045175114" duration="19207000" />
+      <workItem from="1710098535893" duration="50000" />
+      <workItem from="1710099671747" duration="21255000" />
+      <workItem from="1710153281009" duration="41000" />
+      <workItem from="1710153423130" duration="3000" />
+      <workItem from="1710153434803" duration="6076000" />
+      <workItem from="1710213733867" duration="1362000" />
+      <workItem from="1710220604853" duration="3425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
