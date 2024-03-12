@@ -1,4 +1,4 @@
-//package com.javacode.exceptions;
+package com.javacode.exceptions;
 
 class ShortLossyConversion {
     public static void main(String[] args) {

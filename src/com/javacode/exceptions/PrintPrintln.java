@@ -1,4 +1,4 @@
-//package com.javacode.exceptions;
+package com.javacode.exceptions;
 
 class PrintPrintln {
     public static void main(String[] args) {
