@@ -4,97 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="775bff26-483f-4ab3-912b-f719a8957b30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/BooleanException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/ByteLossyConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/DoubleLossyConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/FloatLossyConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/GlobalDeclarationInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/LongLossyConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/PrintPrintln.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/exceptions/ShortLossyConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day1/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day1/MaharajahPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day1/SpecialOperatorAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day1/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day10/AreaPerimeterOfCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day10/AreaPerimeterOfRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day10/CelsiusToFahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day10/MilesPerHour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/AdditionNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/AverageAcceleration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/CharacterVowelConsonant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/FeetIntoMeters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/FinancialApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/MinutesIntoYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/PoundsIntoKilogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/SumTheDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day11/nextCharAt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/AlphabetChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/ArrayShortMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/ConditionalAlphabet_Upper_Lower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/ConditionalEvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/ConditionalMinThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/ConditionalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day12/SmallestValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day13/IncrementOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day13/IncrementOperator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day13/IncrementOperator3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day13/PrintPrintStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day14/CompoundAssignmentOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day14/ConditionalEvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day14/LogicalOperatorExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day14/LogicalOperatorExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day14/LogicalOperatorExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day14/LogicalOperatorExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day15/AreaOfHexagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day15/CalculateInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day15/CalculatingEnergy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day15/ComputingBMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day15/CostOfTrip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day15/RunwayLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day2/ByteDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day2/ByteExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day2/ByteExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day2/InstituteByteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day2/PersonalByteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day3/ShortCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day3/ShortDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day3/ShortExpenseEarning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day3/ShortM7Batch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day3/ShortTransportation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day4/IntDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day4/IntExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day4/IntExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day4/IntExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day5/LongDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day5/LongExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day5/LongExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day6/FloatDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day6/FloatExamCriteria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day6/FloatExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day6/FloatMyInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day7/CharDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day7/CombinedVidaV1Pro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day7/DoubleDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day7/StringDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day7/StringExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day8/GlobalDefaultValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day8/GlobalVariableExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day8/LocalVariableExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day8/LocalVariableExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day8/ResultantOperandDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day9/AreaOfCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day9/PopulationProjection.java" afterDir="false" />
-    </list>
+    <list default="true" id="775bff26-483f-4ab3-912b-f719a8957b30" name="Changes" comment="Upto day 16" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,8 +141,33 @@
       <workItem from="1710153423130" duration="3000" />
       <workItem from="1710153434803" duration="6076000" />
       <workItem from="1710213733867" duration="1362000" />
-      <workItem from="1710220604853" duration="3425000" />
+      <workItem from="1710220604853" duration="4425000" />
     </task>
+    <task id="LOCAL-00001" summary="Upto day 16">
+      <option name="closed" value="true" />
+      <created>1710224347444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710224347444</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Upto day 16">
+      <option name="closed" value="true" />
+      <created>1710224927863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710224927863</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Upto day 16">
+      <option name="closed" value="true" />
+      <created>1710225045009</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710225045009</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,5 +183,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upto day 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upto day 16" />
   </component>
 </project>
