@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day4;
+package com.javacode.qspider_assignment.day4_Int;
 
 public class IntExample1 {
     public static void main(String[] args) {
