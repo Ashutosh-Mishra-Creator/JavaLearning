@@ -4,7 +4,7 @@ and height of 7.9 using the following formula:
 
 area = width * height
 */
-package com.javacode.qspider_assignment.day10;
+package com.javacode.qspider_assignment.day10_Simple_Assignment;
 class AreaPerimeterOfRectangle {
 	public static void main(String[] args){
 		float width = 4.5f;

@@ -4,7 +4,7 @@ that has a radius of 5.5 using the following formula :
 perimeter = 2 * pi(3.14) * radius
 area = pi(3.14) * radius * radius
 */
-package com.javacode.qspider_assignment.day10;
+package com.javacode.qspider_assignment.day10_Simple_Assignment;
 
 class AreaPerimeterOfCircle {
 	public static void main(String[] args){

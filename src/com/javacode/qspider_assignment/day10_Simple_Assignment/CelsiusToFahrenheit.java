@@ -9,7 +9,7 @@ Hint: In Java 9/5 is 1, but 9.0/5 is 1.8.
 Sample Output: Enter a degree in Celsius: 43
 			   43 Celsius is 109.4 Fahrenheit
 */
-package com.javacode.qspider_assignment.day10;
+package com.javacode.qspider_assignment.day10_Simple_Assignment;
 import java.util.Scanner;
 
 class CelsiusToFahrenheit {
