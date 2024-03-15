@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day7;
+package com.javacode.qspider_assignment.day7_Double_Char_String;
 
 class CombinedVidaV1Pro
 {
