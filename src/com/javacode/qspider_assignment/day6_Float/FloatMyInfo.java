@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day6;
+package com.javacode.qspider_assignment.day6_Float;
 
 class FloatMyInfo
 {
