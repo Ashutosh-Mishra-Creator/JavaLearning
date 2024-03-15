@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day15;
+package com.javacode.qspider_assignment.day12_Scanner_Assignment;
 
 import java.util.Scanner;
 public class CostOfTrip {
@@ -10,5 +10,8 @@ public class CostOfTrip {
         float milesPerGallon = sc.nextFloat();
         System.out.print("Enter price per gallon : ");
         float pricePerGallon = sc.nextFloat();
+        float cost = (miles / milesPerGallon) * pricePerGallon;
+        System.out.print("The cost of driving is : $");
+        System.out.printf("%.2f", cost);;
     }
 }

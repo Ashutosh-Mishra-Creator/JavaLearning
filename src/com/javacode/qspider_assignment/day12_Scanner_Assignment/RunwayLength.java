@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day15;
+package com.javacode.qspider_assignment.day12_Scanner_Assignment;
 
 import java.util.Scanner;
 public class RunwayLength {
