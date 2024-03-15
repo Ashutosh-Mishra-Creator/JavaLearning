@@ -1,5 +1,5 @@
 // Write a java program to find the area of a circle, whose radius is 2.5 cm
-package com.javacode.qspider_assignment.day9;
+package com.javacode.qspider_assignment.day9_Simple_Questions;
 
 class AreaOfCircle
 {
