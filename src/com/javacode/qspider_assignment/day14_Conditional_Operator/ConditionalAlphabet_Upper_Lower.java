@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day12;
+package com.javacode.qspider_assignment.day14_Conditional_Operator;
 import java.util.Scanner;
 public class ConditionalAlphabet_Upper_Lower {
     public static void main(String[] args) {

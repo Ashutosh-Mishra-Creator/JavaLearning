@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day12;
+package com.javacode.qspider_assignment.day14_Conditional_Operator;
 import java.util.Scanner;
 public class ConditionalMinThree {
     public static void main(String[] args) {
@@ -9,6 +9,6 @@ public class ConditionalMinThree {
         int num2 = sc.nextInt();
         System.out.print("Enter third number: ");
         int num3 = sc.nextInt();
-        System.out.println("Min value among the three is: " + ((num1<num2)? ((num1 < num3)? (num1): (num3)): ((num2 < num3)? (num2): (num3))));
+        System.out.println("Min value among the three is: " + ((num1<num2)? (num1 < num3? num1: num3): (num2 < num3? num2: num3)));
     }
 }
