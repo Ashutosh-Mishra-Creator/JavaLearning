@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day8;
+package com.javacode.qspider_assignment.day8_Global_Local;
 
 public class GlobalDefaultValue {
 
