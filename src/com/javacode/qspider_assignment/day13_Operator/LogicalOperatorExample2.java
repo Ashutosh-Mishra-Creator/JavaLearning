@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day14;
+package com.javacode.qspider_assignment.day13_Operator;
 
 public class LogicalOperatorExample2 {
     public static void main(String[] args) {
