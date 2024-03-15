@@ -10,7 +10,7 @@ The Indian Census Bureau projects population based on the following assumptions:
 The program should display the population for each of the above, in next five years.
 Assume the current population is 312,032,486 one year has 365 days.
 */
-package com.javacode.qspider_assignment.day9;
+package com.javacode.qspider_assignment.day9_Simple_Questions;
 class PopulationProjection
 {
 	public static void main(String[] args)
