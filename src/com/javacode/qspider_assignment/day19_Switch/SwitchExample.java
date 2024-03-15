@@ -64,6 +64,7 @@ public class SwitchExample {
             case 128 : System.out.println("Hi from case 5"); break;
             default: System.out.println("Hi from default block"); break;
         }
+
         /*
         a = 1;
         switch (a + 0){
@@ -75,6 +76,7 @@ public class SwitchExample {
             default: System.out.println("Hi from default block"); break;
         }
         */
+
         /*
         a = 1;
         switch (a + 0){
@@ -84,6 +86,7 @@ public class SwitchExample {
             default: System.out.println("Hi from default block"); break;
         }
         */
+
         a = 1;
         switch (a + 1){
             case 1 : System.out.println("Hi from case 1"); break;
