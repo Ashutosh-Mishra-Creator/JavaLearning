@@ -7,6 +7,6 @@ class PrintPrintln {
         System.out.println();
         System.out.println("one");
         System.out.println("two");
-        System.out.print(); // error: no suitable method found for print(no arguments)
+//        System.out.print(); // error: no suitable method found for print(no arguments)
     }
 }
