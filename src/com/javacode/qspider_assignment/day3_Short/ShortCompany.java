@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day3;
+package com.javacode.qspider_assignment.day3_Short;
 
 public class ShortCompany {
     public static void main(String[] args) {
