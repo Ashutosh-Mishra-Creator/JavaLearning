@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day1;
+package com.javacode.qspider_assignment.day1_Shivaji_Jayanti;
 
 public class Comment {
     public static void main(String[] args) {

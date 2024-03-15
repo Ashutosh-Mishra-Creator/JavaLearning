@@ -1,7 +1,7 @@
-package com.javacode.qspider_assignment.day11;
+package com.javacode.qspider_assignment.day11_Scanner;
 
 import java.util.Scanner;
-public class nextCharAt {
+public class next_nextLine_nextCharAt {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter 1st String - ");

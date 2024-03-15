@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day1;
+package com.javacode.qspider_assignment.day1_Shivaji_Jayanti;
 import java.io.*;
 import java.awt.*;
 import java.awt.image.BufferedImage;
