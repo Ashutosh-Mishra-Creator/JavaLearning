@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day2;
+package com.javacode.qspider_assignment.day2_Byte;
 
 class ByteExample1 {
     public static void main(String[] args) {
