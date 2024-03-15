@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day5;
+package com.javacode.qspider_assignment.day5_Long;
 
 public class LongExample1 {
     public static void main(String[] args) {

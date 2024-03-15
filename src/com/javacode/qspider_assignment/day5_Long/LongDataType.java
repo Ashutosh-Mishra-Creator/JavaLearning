@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day5;
+package com.javacode.qspider_assignment.day5_Long;
 
 class LongDataType {
     public static void main(String[] args) {
