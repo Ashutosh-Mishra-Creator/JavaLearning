@@ -7,7 +7,7 @@ Here is a sample run.
 Enter a value for feet: 16.5
 16.5 feet is 5.0292 meters
 */
-package com.javacode.qspider_assignment.day11;
+package com.javacode.qspider_assignment.day11_Scanner;
 
 import java.util.Scanner;
 class FeetIntoMeters{
@@ -18,7 +18,7 @@ class FeetIntoMeters{
 		System.out.println(feet);
 		float oneFeetInMeters = 0.3048f;
 		System.out.println(oneFeetInMeters);
-		float FeetInMeters = feet * oneFeetInMeters;
-		System.out.print(feet + " feet is " + FeetInMeters + " meters");
+		float feetInMeters = feet * oneFeetInMeters;
+		System.out.print(feet + " feet is " + feetInMeters + " meters");
 	}
 }

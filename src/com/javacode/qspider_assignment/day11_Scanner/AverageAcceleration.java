@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day11;
+package com.javacode.qspider_assignment.day11_Scanner;
 
 import java.util.Scanner;
 

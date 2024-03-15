@@ -8,7 +8,7 @@ Here is a sample run:
 Enter a number in pounds: 55.5
 55.5 pounds is 25.197 kilograms
 */
-package com.javacode.qspider_assignment.day11;
+package com.javacode.qspider_assignment.day11_Scanner;
 
 import java.util.Scanner;
 

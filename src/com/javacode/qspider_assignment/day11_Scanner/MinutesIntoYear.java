@@ -8,7 +8,7 @@ Here is a sample run:
 Enter a number of minutes: 1000000000
 1000000000 minutes is approximately 1902 years and 214 days.
 */
-package com.javacode.qspider_assignment.day11;
+package com.javacode.qspider_assignment.day11_Scanner;
 
 import java.util.Scanner;
 

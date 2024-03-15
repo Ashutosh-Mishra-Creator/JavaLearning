@@ -6,7 +6,7 @@ Enter the subtotal 10 and a tip rate 15
 
 the tip is 1.5 and the total 11.5
 */
-package com.javacode.qspider_assignment.day11;
+package com.javacode.qspider_assignment.day11_Scanner;
 
 import java.util.Scanner;
 class FinancialApplication{
@@ -19,7 +19,7 @@ class FinancialApplication{
 		System.out.println("Your tipRate :"+ tipRate);
 		float tip = tipRate * subtotal;
 		System.out.println("The tip is :" + tip);
-		double total = subtotal + tip;
+		float total = subtotal + tip;
 		System.out.print("In total you have to pay :" + total);
 	}
 }
