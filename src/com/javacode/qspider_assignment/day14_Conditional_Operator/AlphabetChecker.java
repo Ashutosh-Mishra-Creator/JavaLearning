@@ -1,4 +1,4 @@
-package com.javacode.qspider_assignment.day12;
+package com.javacode.qspider_assignment.day14_Conditional_Operator;
 
 import java.util.Scanner;
 
