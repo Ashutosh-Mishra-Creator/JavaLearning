@@ -4,7 +4,7 @@ Write a program that displays the average speed in miles per hour.
 
 Note: That 1 mile is 1.6 kilometers.
 */
-package com.javacode.qspider_assignment.day10;
+package com.javacode.qspider_assignment.day10_Simple_Assignment;
 class MilesPerHour {
 	public static void main(String[] args){
 		float hours = ((45 * 60) + 30f) / (60 * 60);
