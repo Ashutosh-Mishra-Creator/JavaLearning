@@ -5,6 +5,7 @@ public class SwitchSeasons {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a month : ");
         String month = sc.next().toUpperCase();
+
         switch (month){
             case "OCT":
             case "NOV":
