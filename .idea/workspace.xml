@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="775bff26-483f-4ab3-912b-f719a8957b30" name="Changes" comment="Upto day 16" />
+    <list default="true" id="775bff26-483f-4ab3-912b-f719a8957b30" name="Changes" comment="day 19">
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day19_Switch/SwitchCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day19_Switch/SwitchCalculator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day19_Switch/SwitchExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day19_Switch/SwitchMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day19_Switch/SwitchSeasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacode/qspider_assignment/day19_Switch/VowelSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,19 +56,28 @@
     "Application.ComputingBMI.executor": "Run",
     "Application.ConditionalAlphabet_Upper_Lower.executor": "Run",
     "Application.ConditionalEvenOdd.executor": "Run",
+    "Application.ConditionalMaxThree.executor": "Run",
     "Application.ConditionalMinThree.executor": "Run",
+    "Application.CostOfTrip.executor": "Run",
     "Application.DoubleDataType.executor": "Run",
     "Application.DoubleLossyConversion.executor": "Run",
+    "Application.DrivingLicence.executor": "Run",
+    "Application.Election.executor": "Run",
+    "Application.EvenOdd.executor": "Run",
     "Application.FloatDataType.executor": "Run",
     "Application.FloatExamCriteria.executor": "Run",
     "Application.FloatExample.executor": "Run",
     "Application.FloatMyInfo.executor": "Run",
+    "Application.FutureInvestmentValue.executor": "Run",
     "Application.GlobalDefaultValue.executor": "Run",
     "Application.GlobalVariableExample1.executor": "Run",
+    "Application.GradeCalculation.executor": "Run",
+    "Application.IfStatementExample1.executor": "Run",
     "Application.InstituteByteData.executor": "Run",
     "Application.IntDataType.executor": "Run",
     "Application.IntExample1.executor": "Run",
     "Application.IntExample2.executor": "Run",
+    "Application.InterviewCriteria.executor": "Run",
     "Application.LocalVariableExample1.executor": "Run",
     "Application.LocalVariableExample2.executor": "Run",
     "Application.LogicalOperatorExample1.executor": "Run",
@@ -71,7 +88,9 @@
     "Application.LongExample2.executor": "Run",
     "Application.LongRange.executor": "Run",
     "Application.MaharajPattern.executor": "Run",
+    "Application.MarriageEligibility.executor": "Run",
     "Application.PersonalByteData.executor": "Run",
+    "Application.PositiveNegative.executor": "Run",
     "Application.PrintPrintStream.executor": "Run",
     "Application.PrintPrintln.executor": "Run",
     "Application.ResultantOperandDataType.executor": "Run",
@@ -86,10 +105,15 @@
     "Application.StringDataType.executor": "Run",
     "Application.StringExample.executor": "Run",
     "Application.SumTheDigits.executor": "Run",
+    "Application.SwitchCalculator.executor": "Run",
+    "Application.SwitchCalculator2.executor": "Run",
+    "Application.SwitchEcaxmple.executor": "Run",
+    "Application.SwitchMonth.executor": "Run",
+    "Application.TargetSalaryHike.executor": "Run",
+    "Application.VowelSwitch.executor": "Run",
     "Application.nextCharAt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -141,7 +165,13 @@
       <workItem from="1710153423130" duration="3000" />
       <workItem from="1710153434803" duration="6076000" />
       <workItem from="1710213733867" duration="1362000" />
-      <workItem from="1710220604853" duration="4425000" />
+      <workItem from="1710220604853" duration="11367000" />
+      <workItem from="1710245130953" duration="145000" />
+      <workItem from="1710254542339" duration="1212000" />
+      <workItem from="1710304579904" duration="10584000" />
+      <workItem from="1710396446056" duration="4929000" />
+      <workItem from="1710410118368" duration="32253000" />
+      <workItem from="1710569084096" duration="5677000" />
     </task>
     <task id="LOCAL-00001" summary="Upto day 16">
       <option name="closed" value="true" />
@@ -167,7 +197,295 @@
       <option name="project" value="LOCAL" />
       <updated>1710225045009</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Upto day 16">
+      <option name="closed" value="true" />
+      <created>1710225248014</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710225248014</updated>
+    </task>
+    <task id="LOCAL-00005" summary="day 2">
+      <option name="closed" value="true" />
+      <created>1710523201508</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523201508</updated>
+    </task>
+    <task id="LOCAL-00006" summary="day 11">
+      <option name="closed" value="true" />
+      <created>1710523292063</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523292063</updated>
+    </task>
+    <task id="LOCAL-00007" summary="day 12">
+      <option name="closed" value="true" />
+      <created>1710523300712</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523300712</updated>
+    </task>
+    <task id="LOCAL-00008" summary="day 9">
+      <option name="closed" value="true" />
+      <created>1710523308307</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523308307</updated>
+    </task>
+    <task id="LOCAL-00009" summary="day 15">
+      <option name="closed" value="true" />
+      <created>1710523315017</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523315017</updated>
+    </task>
+    <task id="LOCAL-00010" summary="day 10">
+      <option name="closed" value="true" />
+      <created>1710523330906</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523330906</updated>
+    </task>
+    <task id="LOCAL-00011" summary="day 12">
+      <option name="closed" value="true" />
+      <created>1710523370444</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523370444</updated>
+    </task>
+    <task id="LOCAL-00012" summary="day 11">
+      <option name="closed" value="true" />
+      <created>1710523418247</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523418247</updated>
+    </task>
+    <task id="LOCAL-00013" summary="day 2">
+      <option name="closed" value="true" />
+      <created>1710523464985</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523464985</updated>
+    </task>
+    <task id="LOCAL-00014" summary="day 7">
+      <option name="closed" value="true" />
+      <created>1710523510290</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523510290</updated>
+    </task>
+    <task id="LOCAL-00015" summary="day 15">
+      <option name="closed" value="true" />
+      <created>1710523541069</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523541069</updated>
+    </task>
+    <task id="LOCAL-00016" summary="day 15">
+      <option name="closed" value="true" />
+      <created>1710523552852</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523552852</updated>
+    </task>
+    <task id="LOCAL-00017" summary="day 12">
+      <option name="closed" value="true" />
+      <created>1710523589639</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523589639</updated>
+    </task>
+    <task id="LOCAL-00018" summary="day 1">
+      <option name="closed" value="true" />
+      <created>1710523616698</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523616698</updated>
+    </task>
+    <task id="LOCAL-00019" summary="day 12">
+      <option name="closed" value="true" />
+      <created>1710523627310</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523627310</updated>
+    </task>
+    <task id="LOCAL-00020" summary="day 3">
+      <option name="closed" value="true" />
+      <created>1710523653984</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523653984</updated>
+    </task>
+    <task id="LOCAL-00021" summary="day 14">
+      <option name="closed" value="true" />
+      <created>1710523743197</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523743197</updated>
+    </task>
+    <task id="LOCAL-00022" summary="day 6">
+      <option name="closed" value="true" />
+      <created>1710523766629</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523766629</updated>
+    </task>
+    <task id="LOCAL-00023" summary="day 8">
+      <option name="closed" value="true" />
+      <created>1710523789112</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523789112</updated>
+    </task>
+    <task id="LOCAL-00024" summary="day 5">
+      <option name="closed" value="true" />
+      <created>1710523807232</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523807232</updated>
+    </task>
+    <task id="LOCAL-00025" summary="day 13">
+      <option name="closed" value="true" />
+      <created>1710523844722</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523844722</updated>
+    </task>
+    <task id="LOCAL-00026" summary="day 4">
+      <option name="closed" value="true" />
+      <created>1710523870811</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523870811</updated>
+    </task>
+    <task id="LOCAL-00027" summary="day 18">
+      <option name="closed" value="true" />
+      <created>1710523918971</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523918971</updated>
+    </task>
+    <task id="LOCAL-00028" summary="day 17">
+      <option name="closed" value="true" />
+      <created>1710523944347</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523944347</updated>
+    </task>
+    <task id="LOCAL-00029" summary="day 16">
+      <option name="closed" value="true" />
+      <created>1710523974108</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523974108</updated>
+    </task>
+    <task id="LOCAL-00030" summary="day 12">
+      <option name="closed" value="true" />
+      <created>1710523995443</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1710523995443</updated>
+    </task>
+    <task id="LOCAL-00031" summary="day 1">
+      <option name="closed" value="true" />
+      <created>1710524005088</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1710524005088</updated>
+    </task>
+    <task id="LOCAL-00032" summary="day 13">
+      <option name="closed" value="true" />
+      <created>1710524015644</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1710524015644</updated>
+    </task>
+    <task id="LOCAL-00033" summary="day 2">
+      <option name="closed" value="true" />
+      <created>1710524024008</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1710524024008</updated>
+    </task>
+    <task id="LOCAL-00034" summary="day 14">
+      <option name="closed" value="true" />
+      <created>1710524030083</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1710524030083</updated>
+    </task>
+    <task id="LOCAL-00035" summary="day 10">
+      <option name="closed" value="true" />
+      <created>1710524036888</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1710524036888</updated>
+    </task>
+    <task id="LOCAL-00036" summary="day 19">
+      <option name="closed" value="true" />
+      <created>1710524048076</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1710524048076</updated>
+    </task>
+    <task id="LOCAL-00037" summary="day 9">
+      <option name="closed" value="true" />
+      <created>1710524055797</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1710524055797</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Exceptions in Java">
+      <option name="closed" value="true" />
+      <created>1710524083337</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1710524083337</updated>
+    </task>
+    <task id="LOCAL-00039" summary="day 19">
+      <option name="closed" value="true" />
+      <created>1710524129636</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1710524129636</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +504,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upto day 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upto day 16" />
+    <MESSAGE value="day 11" />
+    <MESSAGE value="day 7" />
+    <MESSAGE value="day 15" />
+    <MESSAGE value="day 3" />
+    <MESSAGE value="day 6" />
+    <MESSAGE value="day 8" />
+    <MESSAGE value="day 5" />
+    <MESSAGE value="day 4" />
+    <MESSAGE value="day 18" />
+    <MESSAGE value="day 17" />
+    <MESSAGE value="day 16" />
+    <MESSAGE value="day 12" />
+    <MESSAGE value="day 1" />
+    <MESSAGE value="day 13" />
+    <MESSAGE value="day 2" />
+    <MESSAGE value="day 14" />
+    <MESSAGE value="day 10" />
+    <MESSAGE value="day 9" />
+    <MESSAGE value="Exceptions in Java" />
+    <MESSAGE value="day 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 19" />
   </component>
 </project>
